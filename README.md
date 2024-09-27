@@ -1,3 +1,6 @@
+Anotação para o burro (eu):
+Só da um npm install na pasta do projeto, já baixa tudo que ta usando 😎👌
+
 Baixa isso aqui: 
 
 npm install react-native
